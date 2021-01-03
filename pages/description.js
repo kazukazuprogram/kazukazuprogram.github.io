@@ -6,7 +6,7 @@ export default class App extends Component {
   render() {
     return (
       <Layout>
-        Hello!
+        This is description page.
       </Layout>
     )
   }
